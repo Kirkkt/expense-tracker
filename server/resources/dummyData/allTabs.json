@@ -1,0 +1,32 @@
+{
+  "tab": {
+    "displayName": "tab-name",
+    "tags": [
+      "tag",
+      "tagB"
+    ]
+  },
+  "tabZ": {
+    "displayName": "tabZname",
+    "tags": [
+      "tagZ"
+    ]
+  },
+  "lazy-tab": {
+    "displayName": "lazy-tab-name",
+    "tags": []
+  },
+  "spiderTab": {
+    "displayName": "spiderTabName",
+    "tags": [
+      "spiderTag",
+      "anotherSpiderTag"
+    ]
+  },
+  "beau-tab": {
+    "displayName": "beau-tab-name",
+    "tags": [
+      "beau-tag"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tag": {
+    "tab": "tab"
+  },
+  "tagB": {
+    "tab": "tab"
+  },
+  "tagZ": {
+    "tab": "tabZ"
+  },
+  "spiderTag": {
+    "tab": "spiderTab"
+  },
+  "anotherSpiderTag": {
+    "tab": "spiderTab"
+  },
+  "beau-tag": {
+    "tab": "beau-tab"
+  }
+}

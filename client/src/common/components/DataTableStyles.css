@@ -1,0 +1,7 @@
+.tooltip:hover {
+  margin-top: -7px;
+  padding-right: 10px;
+  position: absolute;
+  overflow: visible;
+  background: white;
+}

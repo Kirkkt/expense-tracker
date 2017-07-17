@@ -1,0 +1,10 @@
+.dateAndTimeToggle {
+  width: 80px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.dateAndTimePicker {
+  width: 300px;
+  display: inline-block;
+}

@@ -1,0 +1,35 @@
+{
+  "template": {
+    "category": "category",
+    "description": "multi-line\ndescriptions\nis\nhere",
+    "tabs": [
+      "tab",
+      "spiderTab",
+      "tabZ"
+    ]
+  },
+  "templateZ": {
+    "category": "categoryZ",
+    "description": "hello\nZ",
+    "tabs": [
+      "tabZ",
+      "spiderTab",
+      "beau-tab",
+      "tab"
+    ]
+  },
+  "lazy-template": {
+    "category": "lazy-category",
+    "description": "",
+    "tabs": []
+  },
+  "spidertemplate": {
+    "category": "spidercategory",
+    "description": "Bounjour!\n Salute !\n Je suis une araignee.",
+    "tabs": [
+      "spiderTab",
+      "tab",
+      "tabZ"
+    ]
+  }
+}

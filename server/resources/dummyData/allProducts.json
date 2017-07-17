@@ -1,0 +1,309 @@
+[
+  {
+    "name": "product",
+    "status": "正在筹款",
+    "minimumInvestmentAmount": "10",
+    "minimumAddInvestmentAmount": "10",
+    "productTotalAmount": "100000",
+    "availableAmount": "4567",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "pro2",
+    "status": "标的生效",
+    "minimumInvestmentAmount": "1",
+    "minimumAddInvestmentAmount": "1",
+    "productTotalAmount": "50000",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "pro3",
+    "status": "流标",
+    "minimumInvestmentAmount": "100",
+    "minimumAddInvestmentAmount": "10",
+    "productTotalAmount": "10000000",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "pro4",
+    "status": "收益发放",
+    "minimumInvestmentAmount": "10",
+    "minimumAddInvestmentAmount": "1",
+    "productTotalAmount": "100000",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "product5",
+    "status": "正在筹款",
+    "minimumInvestmentAmount": "1000",
+    "minimumAddInvestmentAmount": "1000",
+    "productTotalAmount": "500000",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "pro6",
+    "status": "标的生效",
+    "minimumInvestmentAmount": "50",
+    "minimumAddInvestmentAmount": "10",
+    "productTotalAmount": "100000",
+    "availableAmount": "1234",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "pro7",
+    "status": "流标",
+    "minimumInvestmentAmount": "10",
+    "minimumAddInvestmentAmount": "1",
+    "productTotalAmount": "1000000",
+    "availableAmount": "1000",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "pro8",
+    "status": "收益发放",
+    "minimumInvestmentAmount": "1",
+    "minimumAddInvestmentAmount": "0.5",
+    "productTotalAmount": "10000",
+    "annualizedRateOfReturn": "10",
+    "repaymentType": "一次性还清",
+    "calculateInterestType": "按年计息",
+    "deadline": "50",
+    "fundRaisingDays": "100",
+    "effectiveDate": "2016/8/10",
+    "repaymentDate": "2016/8/22",
+    "debtor": "赵某",
+    "guarantor": "钱某",
+    "templateBasedInformation": {
+      "templateName": "template",
+      "tabs": {
+        "spiderTab": {
+          "tags": {
+            "anotherSpiderTag": "this product has some sort of another spiders",
+            "spiderTag": "this product has some sort of spiders"
+          }
+        },
+        "tab": {
+          "tags": {
+            "tag": "this product has some sort of __",
+            "tagB": "this product has some sort of B"
+          }
+        },
+        "tabZ": {
+          "tags": {
+            "tagZ": "this product has some sort of Z"
+          }
+        }
+      }
+    }
+  }
+]

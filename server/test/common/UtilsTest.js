@@ -1,0 +1,36 @@
+import test from 'ava';
+import Target from '../../src/common/Utils';
+
+test('getWeekStartDate', t => {
+  t.pass();
+  t.is(Target.getWeekStartDate('6/1/2017, 9:17:23 PM'), '5/28/2017');
+  t.is(Target.getWeekStartDate('6/2/2017, 9:17:23 PM'), '5/28/2017');
+  t.is(Target.getWeekStartDate('6/3/2017, 9:17:23 PM'), '5/28/2017');
+  t.is(Target.getWeekStartDate('6/4/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/5/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/6/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/7/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/8/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/9/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/10/2017, 9:17:23 PM'), '6/4/2017');
+  t.is(Target.getWeekStartDate('6/11/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/12/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/13/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/14/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/15/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/16/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/17/2017, 9:17:23 PM'), '6/11/2017');
+  t.is(Target.getWeekStartDate('6/18/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/19/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/20/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/21/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/22/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/23/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/24/2017, 9:17:23 PM'), '6/18/2017');
+  t.is(Target.getWeekStartDate('6/25/2017, 9:17:23 PM'), '6/25/2017');
+  t.is(Target.getWeekStartDate('6/26/2017, 9:17:23 PM'), '6/25/2017');
+  t.is(Target.getWeekStartDate('6/27/2017, 9:17:23 PM'), '6/25/2017');
+  t.is(Target.getWeekStartDate('6/28/2017, 9:17:23 PM'), '6/25/2017');
+  t.is(Target.getWeekStartDate('6/29/2017, 9:17:23 PM'), '6/25/2017');
+  t.is(Target.getWeekStartDate('6/30/2017, 9:17:23 PM'), '6/25/2017');
+});

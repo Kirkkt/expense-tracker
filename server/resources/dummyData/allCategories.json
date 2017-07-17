@@ -1,0 +1,34 @@
+[
+  {
+    "name": "category",
+    "details": {
+      "a": "category-aa",
+      "b": "category-bb",
+      "c": "category-cc"
+    }
+  },
+  {
+    "name": "categoryZ",
+    "details": {
+      "x": "categoryZ-xx",
+      "y": "categoryZ-yy",
+      "z": "categoryZ-zz"
+    }
+  },
+  {
+    "name": "lazy-category",
+    "details": {
+      "a": "lazy-category-aaa",
+      "b": "lazy-category-bbb",
+      "c": "lazy-category-ccc"
+    }
+  },
+  {
+    "name": "spidercategory",
+    "details": {
+      "x": "spidercategory-xxxx",
+      "y": "spidercategory-yyyy",
+      "z": "spidercategory-zzzz"
+    }
+  }
+]
